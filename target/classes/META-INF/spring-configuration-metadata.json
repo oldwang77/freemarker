@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "com.haozz.opensource",
+      "type": "com.transwarp.test.config.Resource",
+      "sourceType": "com.transwarp.test.config.Resource"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.haozz.opensource.language",
+      "type": "java.lang.String",
+      "sourceType": "com.transwarp.test.config.Resource"
+    },
+    {
+      "name": "com.haozz.opensource.name",
+      "type": "java.lang.String",
+      "sourceType": "com.transwarp.test.config.Resource"
+    },
+    {
+      "name": "com.haozz.opensource.website",
+      "type": "java.lang.String",
+      "sourceType": "com.transwarp.test.config.Resource"
+    }
+  ],
+  "hints": []
+}
